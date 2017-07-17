@@ -1,2 +1,2 @@
 # event-manager
-Logger supporting PSR-14
+Event-Manager supporting PSR-14
